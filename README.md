@@ -53,17 +53,7 @@
        x="44.519505"
        y="79.281311"
        ry="27.443529" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.21622371,0,0,0.22041075,-4.5204338,-10.21431)"
-       id="text3"
-       style="font-size:192px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#ffffff;fill-opacity:1"><tspan
-         x="271.98633"
-         y="594.03259"
-         id="tspan1">&gt;_</tspan></text>
-  </g>
-</svg>
-ading drawing.svg…]()
+
 
 # cmshell
 minimalist shell for ricers
